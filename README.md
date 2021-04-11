@@ -1,4 +1,4 @@
-# Google images downloading for a given search word
+# google search images downloader for given search word
 Python code to download images from google for a give search word
 
 For any image classification ML problems we need images data to be collected 
